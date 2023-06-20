@@ -1,1 +1,1 @@
-These are random CAD's I've made for variaous reasons, and that i felt might be useful for others.
+These are random CAD's I've made for various reasons, and that i felt might be useful for others.
