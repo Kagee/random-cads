@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Stock_Beltchain0_Link v26.step',
-/* time_stamp */ '2023-07-10T15:38:38+02:00',
+/* name */ 'Stock_Beltchain0_Link.step',
+/* time_stamp */ '2023-07-10T16:15:13+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
@@ -2315,16 +2315,16 @@ SOLID_ANGLE_UNIT()
 #2178=SHAPE_REPRESENTATION('',(#1281),#2170);
 #2179=PRODUCT_DEFINITION_CONTEXT('part definition',#2184,'design');
 #2180=PRODUCT_DEFINITION('Stock_Beltchain0_Link',
-'Stock_Beltchain0_Link v26',#2181,#2179);
+'Stock_Beltchain0_Link v29',#2181,#2179);
 #2181=PRODUCT_DEFINITION_FORMATION('',$,#2186);
-#2182=PRODUCT_RELATED_PRODUCT_CATEGORY('Stock_Beltchain0_Link v26',
-'Stock_Beltchain0_Link v26',(#2186));
+#2182=PRODUCT_RELATED_PRODUCT_CATEGORY('Stock_Beltchain0_Link v29',
+'Stock_Beltchain0_Link v29',(#2186));
 #2183=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#2184);
 #2184=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #2185=PRODUCT_CONTEXT('part definition',#2184,'mechanical');
-#2186=PRODUCT('Stock_Beltchain0_Link','Stock_Beltchain0_Link v26',$,(#2185));
+#2186=PRODUCT('Stock_Beltchain0_Link','Stock_Beltchain0_Link v29',$,(#2185));
 #2187=PRESENTATION_STYLE_ASSIGNMENT((#2188));
 #2188=SURFACE_STYLE_USAGE(.BOTH.,#2189);
 #2189=SURFACE_SIDE_STYLE('',(#2190));
