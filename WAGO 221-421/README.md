@@ -1,5 +1,24 @@
 # WAGO 221-421
 
-A medium simple model of a WAGO 221-421. There are "free" models out there, but they all appear to be ripped from the original Wago source, that does not have a free license.
+A medium simple model of a WAGO 221-421. 
 
 <img src="WAGO 221-421.png" width="200">
+
+For people who just say "use the one on Grabcad", yes, there are "free" models out there, but they all appear to be ripped from the original Wago source. Let me give you some quotes from the license text for partcommunity.com that WAGO uses, and from the license for CADs from JST or McMaster-Carr:
+
+WAGO / partcommunity.com
+> The customer may use the retrieved data for personal uses only.
+> 
+> The following use of data ... is strictly prohibited:
+> 
+> The production of additional copies of the downloaded data for personal scientific use, if carried out for commercial purposes and the inclusion of additional copies in personal files, even if this is for the customer’s own information and concerns daily demands.
+> 
+> ... the retrieved data may not be ceded to third parties, distributed, or communicated to the public.
+
+JST:
+> 1. Downloading document by competitors is strictly prohibited.
+> 
+> 3. Disclosure or leakage of downloaded document and information contained is strictly prohibited.
+
+McMaster-Carr:
+> You shall not otherwise redistribute or make available the CAD models (or any design drawings or prototypes that incorporate them) to any third parties ...
